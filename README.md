@@ -1,2 +1,5 @@
-# Build_Project_Chat_Bot_AI
-Build chat bot AI demo provide realtime.
+# <p align="center"><strong>Build Project Chat Bot AI</strong></p>
+
+## 1. Instroduce
+
+## 2. Build 
