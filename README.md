@@ -8,6 +8,9 @@
      * Creating question-answer pairs with Rasa
      * Creating and visualizing conversation paths with Rasa
      * Creating actions for the Rasa chatbot
+     * Detail basic rasa chat bot:
+       * https://www.youtube.com/watch?v=YxQNVe0M7j8&list=PLp9h3aIPyUbZyCUP4ELTaS2ajxKNWaSnU
+ * 
 * Build a model chat bot with LLM: https://github.com/PacktPublishing/Python-Natural-Language-Processing-Cookbook-Second-Edition/tree/main/Chapter10
   * .....
 
