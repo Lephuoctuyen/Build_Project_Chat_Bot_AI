@@ -10,8 +10,7 @@
      * Creating actions for the Rasa chatbot
      * Detail basic rasa chat bot:
        * Youtube : https://www.youtube.com/watch?v=YxQNVe0M7j8&list=PLp9h3aIPyUbZyCUP4ELTaS2ajxKNWaSnU
-       * Medium : https://medium.com/analytics-vidhya/build-a-chatbot-using-rasa-78406306aa0c
- * 
+       * Medium  : https://medium.com/analytics-vidhya/build-a-chatbot-using-rasa-78406306aa0c
 * Build a model chat bot with LLM: https://github.com/PacktPublishing/Python-Natural-Language-Processing-Cookbook-Second-Edition/tree/main/Chapter10
   * .....
 
